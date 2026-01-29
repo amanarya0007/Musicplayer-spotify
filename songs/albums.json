@@ -1,0 +1,92 @@
+[
+    {
+        "folder": "ar_rehmaan",
+        "title": "AR Rehmaan",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "arijit_singh",
+        "title": "Arijit Singh",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "badshah",
+        "title": "Badshah",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "diljit_dosanjh",
+        "title": "Diljit Dosanjh",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "himesh_reshammiyan",
+        "title": "Himesh Reshammiyan",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "honey_singh",
+        "title": "Honey Singh",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "karan_aujla",
+        "title": "Karan Aujla",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "kishore_kumar",
+        "title": "Kishore Kumar",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "kumar_sanu",
+        "title": "Kumar Sanu",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "neha_kakkar",
+        "title": "Neha Kakkar",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "pritam",
+        "title": "Pritam",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "raftaar",
+        "title": "Raftaar",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "shreya_ghoshal",
+        "title": "Shreya Ghoshal",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "sonu_nigam",
+        "title": "Sonu Nigam",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    },
+    {
+        "folder": "udit_narayan",
+        "title": "Udit Narayan",
+        "description": "Artist",
+        "cover": "cover.jpg"
+    }
+]
